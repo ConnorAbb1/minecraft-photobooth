@@ -27,7 +27,7 @@ def where_am_i():
             mc.postToChat("Check out your picture")
             time.sleep(5)
         
-mc.postToChat("Find the Photo-Booth")
+mc.postToChat("Find the Photo-Booth!")
 where_am_I()
     
 
